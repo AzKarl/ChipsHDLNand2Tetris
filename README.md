@@ -3,6 +3,7 @@
  Este repositório contém implementações de vários chips em uma HDL específica do curso Nand2Tetris./This repository contains implementations of various chips in a specific HDL of the Nand2Tetris course. Os chips foram desenvolvidos como parte das atividades de aprendizado na disciplina de Arquitetura de Computadores.
 
 Os chips implementados são os seguintes:
+
 Projeto1:
 - Not: Implementa um chip NOT (inversor).
 - And: Implementa um chip AND (porta lógica AND).
