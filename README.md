@@ -3,7 +3,7 @@
  Este repositório contém implementações de vários chips em uma HDL específica do curso Nand2Tetris./This repository contains implementations of various chips in a specific HDL of the Nand2Tetris course. Os chips foram desenvolvidos como parte das atividades de aprendizado na disciplina de Arquitetura de Computadores.
 
 Os chips implementados são os seguintes:
-
+---------------------------------------------------------------------------------------------------------------------------
 Projeto1:
 - Not: Implementa um chip NOT (inversor).
 - And: Implementa um chip AND (porta lógica AND).
@@ -18,7 +18,14 @@ Projeto1:
 ---------------------------------------------------------------------------------------------------------------------------
 Projeto2:
 Or8Way, Mux4Way16, Mux8Way16, DMux4Way, DMux8Way
-------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------
+Projeto3:
+HalfAdder, FullAdder, Add16
+---------------------------------------------------------------------------------------------------------------------------
+Projeto4:
+Inc16, ALU
+-----------------------------------------------------------------------------------------------------------------------------
+
 Essas implementações foram desenvolvidas utilizando a HDL específica do curso Nand2Tetris, que permite descrever o comportamento e a interconexão dos componentes de hardware.
 
 Esse repositório foi criado como parte do meu portfólio, demonstrando minhas habilidades e conhecimentos em arquitetura de computadores e desenvolvimento de chips digitais utilizando a HDL Nand2Tetris.
@@ -30,6 +37,7 @@ Esse repositório foi criado como parte do meu portfólio, demonstrando minhas h
 This repository contains implementations of various chips in a specific HDL of the Nand2Tetris course. The chips were developed as part of the learning activities in the Computer Architecture course.
 
 The chips implemented are as follows:
+--------------------------------------------------------------------------------------------------------------------------------
 Project1:
 - Not: Implements a NOT chip (inverter).
 - And: Implements an AND chip (AND logic gate).
@@ -44,6 +52,12 @@ Project1:
 --------------------------------------------------------------------------------------------------------------------------------
 Project2:
 Or8Way, Mux4Way16, Mux8Way16, DMux4Way, DMux8WayS
+--------------------------------------------------------------------------------------------------------------------------------
+Project3:
+HalfAdder, FullAdder, Add16
+--------------------------------------------------------------------------------------------------------------------------------
+Project4:
+Inc16, ALU
 ------------------------------------------------------------------------------------------------------------------------------------
 These implementations were developed using the specific HDL of the Nand2Tetris course, which allows describing the behavior and interconnection of hardware components.
 
