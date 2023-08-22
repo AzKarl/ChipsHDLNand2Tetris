@@ -39,6 +39,11 @@ Projeto5:
 - RAM8;
 - RAM64.
 -------------------------------------------------------------------------------------------------------------------------------
+- PC;
+- RAM512
+- RAM4K;
+- RAM16K.
+-------------------------------------------------------------------------------------------------------------------------------
 Essas implementações foram desenvolvidas utilizando a HDL específica do curso Nand2Tetris, que permite descrever o comportamento e a interconexão dos componentes de hardware.
 
 Esse repositório foi criado como parte do meu portfólio, demonstrando minhas habilidades e conhecimentos em arquitetura de computadores e desenvolvimento de chips digitais utilizando a HDL Nand2Tetris.
@@ -74,7 +79,7 @@ Project3:
 - HalfAdder;
 - FullAdder;
 - Add16.
---------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------
 Project4:
 - Inc16;
 - ALU.
@@ -84,7 +89,13 @@ Projecto5:
 - Register;
 - RAM8;
 - RAM64.
--------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------
+Projecto6: 
+- PC;
+- RAM512
+- RAM4K;
+- RAM16K
+------------------------------------------------------------------------------------------------------------------------------------
 These implementations were developed using the specific HDL of the Nand2Tetris course, which allows describing the behavior and interconnection of hardware components.
 
 This repository was created as part of my portfolio, demonstrating my skills and knowledge in computer architecture and digital chip development using HDL Nand2Tetris.
